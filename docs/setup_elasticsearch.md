@@ -15,4 +15,4 @@
 
 至少是 [java8](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
-推荐`1.8.0_73`或者更新。
+推荐`1.8.0_73`或者更新的版本。
